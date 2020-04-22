@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8652c24-8af6-405b-ae67-de3986e1eb69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ivy.go" beforeDir="false" afterPath="$PROJECT_DIR$/ivy.go" afterDir="false" />
     </list>
@@ -60,5 +59,25 @@
       <screen x="1440" y="-103" width="1920" height="989" />
     </state>
     <state x="2272" y="30" key="#go_build_ivy.go/0.23.1440.877/1440.-103.1920.989@1440.-103.1920.989" timestamp="1587285959677" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1587289437913">
+      <screen x="1440" y="-103" width="1920" height="989" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-103.1920.989@1440.-103.1920.989" timestamp="1587289437913" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1587289437912">
+      <screen x="1440" y="-103" width="1920" height="989" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.877/1440.-103.1920.989@1440.-103.1920.989" timestamp="1587289437912" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1587289437911">
+      <screen x="1440" y="-103" width="1920" height="989" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.877/1440.-103.1920.989@1440.-103.1920.989" timestamp="1587289437911" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1587289437912">
+      <screen x="1440" y="-103" width="1920" height="989" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.877/1440.-103.1920.989@1440.-103.1920.989" timestamp="1587289437912" />
+    <state x="2220" y="164" width="670" height="676" key="search.everywhere.popup" timestamp="1587288226880">
+      <screen x="1440" y="-103" width="1920" height="989" />
+    </state>
+    <state x="2220" y="164" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.-103.1920.989@1440.-103.1920.989" timestamp="1587288226880" />
   </component>
 </project>
